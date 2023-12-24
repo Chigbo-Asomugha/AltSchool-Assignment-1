@@ -1,1 +1,1 @@
-In this Project, I built an About-Me page and alslo repplicated the AltSchool Sign-up Form. Both pages are linked together. It's purely HTML Project, but I added a little extra CSS to make it look better. 
+In this Project, I built an About-Me page and also repplicated the AltSchool Sign-up Form. Both pages are linked together. It's purely HTML Project, but I added a little extra CSS to make it look better. 
